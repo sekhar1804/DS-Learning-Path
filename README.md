@@ -1,2 +1,2 @@
-# DS-Learning-Path
-My Learning Path
+# ML-Learning-Path
+
